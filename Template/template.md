@@ -11,9 +11,7 @@
 
 **TLDR:** [One or at most two line summary.] 
 
-**Relevance**: [Score between 1 and 5, stating how relevant this paper is to your work. Usually filled in at the end. ]
-
-**Tags**: [General or specific research topic tags e.g. rl, nlp or efficient-nlp. Could also be used to specify the conference this was accepted at or any useful grouping.]
+**Tags**: [ltl, Q-learning, etc.]
 
 ## Paper summary (What)
 [Summary of the paper - a few sentences with bullet points. What did they do? What is their hypothesis? ]
