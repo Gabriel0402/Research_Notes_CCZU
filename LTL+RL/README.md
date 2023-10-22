@@ -9,3 +9,11 @@ We list the most popular methods for LTL+RL, if we missed something, please subm
 Date|Conference|Title
 -----|-----|-----
 2021-12-13|Arxiv 2020|[A Survey of Unsupervised Domain Adaptation for Visual Recognition](https://arxiv.org/abs/2112.06745)
+
+## LDBA 
+
+## DFA (reward machine)
+
+## Symbolic Planning
+
+## Lifelong (Continuous) Learning
