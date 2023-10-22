@@ -18,6 +18,9 @@
 ## Paper summary (What)
 [Summary of the paper - a few sentences with bullet points. What did they do? What is their hypothesis? ]
 
+## Motivation (What)
+[Why need to handle the topic? What is the motivation for the paper? ]
+
 ## Issues addressed by the paper (Why)
 [What are the issues that the paper addresses? Describe the problem. Why did they write this paper?]
 
@@ -68,11 +71,3 @@
 ## Extra
 - Cited references to follow up on/related papers/check google scholar for papers citing this paper:
 - Source code/blog/twitter thread/other links:
-
----
-## References
-- [Template for taking notes for a paper? - Academia Stack Exchange](https://academia.stackexchange.com/questions/17113/template-for-taking-notes-for-a-paper)
-- [Writing Notes](https://www.owlnet.rice.edu/~cainproj/writingtips/notes2.pdf)
-- [How to Read A paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
-- [yobibyte's Template](https://twitter.com/y0b1byte/status/1364841802839302144?s=20)
-- [Alfredo Canziani's video](https://youtu.be/5KSGNomPJTE?t=36)
