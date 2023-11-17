@@ -17,5 +17,8 @@ Date|Conference|Title
 ## Symbolic Planning
 
 ## Lifelong (Continuous) Learning
+Date|Conference|Title
+-----|-----|-----
+2021|Arxiv 2021|[Lifelong Reinforcement Learning with Temporal Logic Formulas and Reward Machines)
 
 ## Multi-Agent
