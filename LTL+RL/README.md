@@ -11,6 +11,9 @@ Date|Conference|Title
 2021-12-13|Arxiv 2020|[A Survey of Unsupervised Domain Adaptation for Visual Recognition](https://arxiv.org/abs/2112.06745)
 
 ## LDBA 
+Date|Conference|Title
+-----|-----|-----
+2019|IEEE Conference on Decision and Contro|[Reinforcement Learning for Temporal Logic Control Synthesis with Probabilistic Satisfaction Guarantees)
 
 ## DFA (reward machine)
 
