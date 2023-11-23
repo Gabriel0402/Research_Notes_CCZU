@@ -18,6 +18,9 @@ Date|Conference|Title
 ## DFA (reward machine)
 
 ## Symbolic Planning
+Date|Conference|Title
+-----|-----|-----
+2021|IEEE Conference on Machine Learning[Discovering symbolic policies with deep reinforcement learning)
 
 ## Lifelong (Continuous) Learning
 Date|Conference|Title
